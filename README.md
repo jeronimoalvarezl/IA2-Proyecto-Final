@@ -9,7 +9,7 @@ Además, el modelo genera visual analytics por frame, como el conteo de jugadore
 ## Videos
 Como los videos son de más de 100mb no se pueden subir a GitHub, dejamos los links de drive para su descarga aquí:
 
-Video Resultados: https://drive.google.com/file/d/15rxMLx5fssmA2qkycdhJvCKOZJa6ld3D/view?usp=sharing
+Video Resultados: https://drive.google.com/file/d/15rxMLx5fssmA2qkycdhJvCKOZJa6ld3D/view?usp=sharing  
 Video Original: Para usar el video original es necesario cambia su nombre a "IA2Video.mp4" para que funcione correctamente el código.
 
 ## Requisitos
